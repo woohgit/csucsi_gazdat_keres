@@ -116,6 +116,6 @@ theme = "hugo-creative-theme"
 	# Contact section
 	[params.contact]
 		headline = "Vedd fel velem a kapcsolatot!"
-		description = "Ha úgy gondolod, hogy szívesen lennél a új gazdám, ne habozz! Írj vagy hívj a lenti elérhetőségeken! Ha éppen nem vagyok elérhető, a gazdim biztosan szívesen válaszol a kérdéseidre."
+		description = "Ha úgy gondolod, hogy szívesen lennél az új gazdám, ne habozz! Írj vagy hívj a lenti elérhetőségeken! Ha éppen nem vagyok elérhető, a gazdim biztosan szívesen válaszol a kérdéseidre."
 		phone = "+36 30 33-55-735"
 		email = "info@bulldogspecialista.hu"
