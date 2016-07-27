@@ -27,7 +27,7 @@ git subtree add --prefix=public git@github.com:woohgit/csucsi_gazdat_keres.git g
 git subtree pull --prefix=public git@github.com:woohgit/csucsi_gazdat_keres.git gh-pages
 
 # Run hugo. Generated site will be placed in public directory (or omit -t ThemeName if you're not using a theme)
-hugo -t ThemeName
+hugo -t hugo-creative-theme
 
 
 # Add everything
