@@ -17,4 +17,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-git subtree push --prefix=public git@github.com:woohgit/csucsi_gadat_keres.git gh-pages
+git subtree push --prefix=public git@github.com:woohgit/csucsi_gazdat_keres.git gh-pages
