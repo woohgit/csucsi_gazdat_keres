@@ -84,7 +84,7 @@ theme = "hugo-creative-theme"
         [[params.services.list]]
             icon = "fa-sun-o"
             title = "Napozás"
-            description = "A bulldogokkal ellentétben én imádok napozni. Süttetni magamat a napon. Kérlek engedd meg, hogy napozzak a kertben."
+            description = "A bulldogokkal ellentétben én imádok napozni. Süttetni magamat a napon. Kérlek engedd meg, hogy napozzak a kertben vagy a teraszon/erkélyen."
 
 
         [[params.services.list]]
