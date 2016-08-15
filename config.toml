@@ -40,8 +40,8 @@ theme = "hugo-creative-theme"
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Csücsi vagyok,<br/> leszel a gazdim?"
-		subtitle   = "Egy kan [bulldog](https://hu.wikipedia.org/wiki/Buldog) vagyok. 6 éves és nagyon szeretek labdázni, mozogni."
+		slogan     = "Csücsi vagyok,<br/> és már megtaláltam ay új gazdámat!"
+		subtitle   = "Köszönöm a sok megosztást! A segítségetekkel megtaláltam már az új gazdimat!"
 		buttonText = "Tudj meg többet rólam!"
 
 
