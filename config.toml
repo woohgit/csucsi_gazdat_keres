@@ -40,7 +40,7 @@ theme = "hugo-creative-theme"
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Csücsi vagyok,<br/> és már megtaláltam ay új gazdámat!"
+		slogan     = "Csücsi vagyok,<br/> és már megtaláltam az új gazdámat!"
 		subtitle   = "Köszönöm a sok megosztást! A segítségetekkel megtaláltam már az új gazdimat!"
 		buttonText = "Tudj meg többet rólam!"
 
